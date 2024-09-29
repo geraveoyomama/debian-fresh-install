@@ -1,0 +1,3 @@
+- This script expects the running user to be in sudo.
+- This script expects to be running on trixie/sid.
+- additional arguments are to pass "amd_pstate=active" to the kernel if you are running AMD
