@@ -5,4 +5,5 @@ sudo apt install htop lm-sensors curl wget sudo pip linux-image-amd64 linux-head
 
 systemctl --user --now enable wireplumber.service
 systemctl --user restart wireplumber pipewire pipewire-pulse
+sudo reboot
 
