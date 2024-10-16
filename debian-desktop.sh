@@ -1,6 +1,6 @@
 
 
-sudo apt install -y htop lm-sensors curl wget sudo pip linux-image-amd64 linux-headers-amd64 linux-cpupower wine winetricks firewalld nvtop amd64-microcode dnsmasq resolvconf \
+sudo apt install -y htop lm-sensors curl wget sudo pip linux-image-amd64 linux-headers-amd64 linux-cpupower wine winetricks firewalld nvtop amd64-microcode dnsmasq resolvconf cockpit \
     ckb-next nextcloud-desktop dolphin-nextcloud yakuake keepassxc-full spyder firefox firefox-esr- konsole virt-manager kde-spectacle ark \
     sddm plasma-workspace-wayland gamemode firefox firefox-esr- plasma-discover-backend-flatpak kde-config-flatpak \
     wireplumber pipewire-pulse pipewire-alsa pipewire-media-session- libspa-0.2-bluetooth pulseaudio-module-bluetooth- libspa-0.2-libcamera
